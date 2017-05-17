@@ -1,0 +1,13 @@
+﻿  Source.cpp
+c:\users\timothy\desktop\final project\final project\source.cpp(19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\timothy\desktop\final project\final project\source.cpp(50): warning C4018: '<': signed/unsigned mismatch
+c:\users\timothy\desktop\final project\final project\source.cpp(81): warning C4244: '=': conversion from 'unsigned __int64' to 'int', possible loss of data
+c:\users\timothy\desktop\final project\final project\source.cpp(90): warning C4018: '<': signed/unsigned mismatch
+c:\users\timothy\desktop\final project\final project\source.cpp(104): warning C4018: '<': signed/unsigned mismatch
+c:\users\timothy\desktop\final project\final project\source.cpp(126): warning C4018: '<': signed/unsigned mismatch
+c:\users\timothy\desktop\final project\final project\source.cpp(137): warning C4018: '<': signed/unsigned mismatch
+c:\users\timothy\desktop\final project\final project\source.cpp(179): warning C4018: '<': signed/unsigned mismatch
+c:\users\timothy\desktop\final project\final project\source.cpp(186): warning C4018: '<': signed/unsigned mismatch
+c:\users\timothy\desktop\final project\final project\source.cpp(206): warning C4018: '<': signed/unsigned mismatch
+  Final Project.vcxproj -> C:\Users\Timothy\Desktop\Final Project\Debug\Final Project.exe
+  Final Project.vcxproj -> C:\Users\Timothy\Desktop\Final Project\Debug\Final Project.pdb (Partial PDB)
